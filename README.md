@@ -13,8 +13,6 @@
 -->
 # Projeto de Experiências Profissionais
 
-![gif]
-
 Este projeto tem como objetivo demonstrar as minhas experiências profissionais nas áreas de mapeamento de processos, análise de dados, desenvolvimento de aplicações e documentação de projetos.
 
 ## Experiências
